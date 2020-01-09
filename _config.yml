@@ -41,24 +41,15 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-   **Data** **Management**: Database Design and Management, Data Analysis, Pattern and Trend Identification, Visualization and Data Insights, Data Warehousing, Data Mining, Regression Analysis, Data Modeling, Predictive Analytics
-   
-   **Programming** **Languages**: C,C++,Java, SQL
-   
-   **Web Technology**: HTML5, CSS, JavaScript
-   
-   **Data Visualization**: Excel, Tableau, PowerBI, Pentaho CDE
-   
-   
-   **BI and Reporting tools**: MS Power BI, Tableau, Excel VBA, VLOOKUP
-   
-   **Data Analytics**: Excel, R, SQL, Python, Saiku Analytics
-   
-   **Database**: MS Access, Oracle SQL developer, MYSQL, MS SQL
-   
-   **ETL Tools**: MS SSIS, Pentaho
-   
-   **Web Analytics**: Google Analytics
+   - **Data** **Management**: Database Design and Management, Data Analysis, Pattern and Trend Identification, Visualization and Data Insights, Data Warehousing, Data Mining, Regression Analysis, Data Modeling, Predictive Analytics
+   - **Programming** **Languages**: C,C++,Java, SQL
+   - **Web Technology**: HTML5, CSS, JavaScript
+   - **Data Visualization**: Excel, Tableau, PowerBI, Pentaho CDE
+   - **BI and Reporting tools**: MS Power BI, Tableau, Excel VBA, VLOOKUP
+   - **Data Analytics**: Excel, R, SQL, Python, Saiku Analytics
+   - **Database**: MS Access, Oracle SQL developer, MYSQL, MS SQL
+   - **ETL Tools**: MS SSIS, Pentaho
+   - **Web Analytics**: Google Analytics
 
 # Footer
 footer_show_references: true
