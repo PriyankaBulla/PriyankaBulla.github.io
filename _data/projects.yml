@@ -20,6 +20,7 @@
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
+      
       Data Warehousing (DW) is a process for collecting and managing data from varied sources to provide meaningful business insights. Data Warehouse plays an important role. It helps to analyze key aspects to improve sales of an enterprise.
     
   description: | # this will include new lines to allow paragraphs
