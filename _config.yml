@@ -50,6 +50,11 @@ more_content: | # this will include new lines to allow paragraphs
    - **Database**: MS Access, Oracle SQL developer, MYSQL, MS SQL
    - **ETL Tools**: MS SSIS, Pentaho
    - **Web Analytics**: Google Analytics
+   
+# Others Section
+# others_title: Others
+others_content: | # this will include new lines to allow paragraphs
+   - Recipient of “Tech Edge Scholarship”, Illinois Institute of Technology, Chicago
 
 # Footer
 footer_show_references: true
