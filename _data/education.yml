@@ -1,10 +1,20 @@
+# Education Template
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: Illinois Institute of Technology
+  dates: 2018-present 
+  qualification: M S in Information Technology and Management (Data Management)
+  gpa: 3.77/4.0
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    "Illinois Tech stands at the crossroads of exploration and innovation, advancing Chicago and the world".
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    *Courses*: Data Analytics, Data Warehousing, Data Mining, Database Management, Rich Internet Applications, Object Oriented Modeling and System Design, Java, Project Management
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+- layout: left
+  name: B V Bhoomaraddi College of Engineering and Technology
+  dates: 2013-2017 
+  qualification: B E in Instrumentation Technology
+  gpa: 3.67/4.0
+  quote: >
+    "The B. V. Bhoomaraddi College of Engineering and Technology (BVBCET), believes in kindling the spirit of this unique and creative discipline in every student who enters its portals" 
+    
+  
