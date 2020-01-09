@@ -1,6 +1,6 @@
 # Project template
 - layout: top-middle
-  name: Credit Card Fraud Detection
+  name: Credit Card Fraud Detection | December 2019
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
@@ -16,13 +16,12 @@
        - Used Precision, Recall and F1-score to evaluate the results.
 
 - layout: top-middle
-  name: End to End Data Warehouse for a Retail Store
+  name: End to End Data Warehouse for a Retail Store | April 2019
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
+      Data Warehousing (DW) is a process for collecting and managing data from varied sources to provide meaningful business insights. Data Warehouse plays an important role. It helps to analyze key aspects to improve sales of an enterprise.
     
-    Have you ever used a credit card at a store only to be declined? Or have the payments been blocked because you were charged a higher amount. Credit Card Fraud is a wide-ranging term for theft and fraud committed using a credit Card or any similar payment mechanism as a fraudulent source of funds in a transaction.Despite the introduction of secure chip technology, credit card fraud remains a top concern for banks and financial institutions. A report published by “Nilson” shows that global credit card fraud losses equaled $22.8 billion in 2016.  
-  
   description: | # this will include new lines to allow paragraphs
       
       **Contributions:**
@@ -33,13 +32,14 @@
        - Also, conducted analysis using the inbuilt Saiku Analytics Plugin and created an interactive dashboard using Tableau to demonstrate the results using pie chart, bar graphs, data blending feature and bubble charts.
        
 - layout: top-middle
-  name: Analysis of World Happiness Report
+  name: Analysis of World Happiness Report | November 2018
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     
-    Have you ever used a credit card at a store only to be declined? Or have the payments been blocked because you were charged a higher amount. Credit Card Fraud is a wide-ranging term for theft and fraud committed using a credit Card or any similar payment mechanism as a fraudulent source of funds in a transaction.Despite the introduction of secure chip technology, credit card fraud remains a top concern for banks and financial institutions. A report published by “Nilson” shows that global credit card fraud losses equaled $22.8 billion in 2016.  
-  
+   The pursuit of happiness has been a part of humanity longer than some may think; some even argue that it’s the reason we continue to do more than just exist. Evidence of this stems back to Ancient Greece, when Philosophers such as Aristotle wrote about it in many of his texts. In fact, the “pursuit of happiness” was a vital part of the United States Declaration of Independence, written in 1776. With Thomas Jefferson stating how he believed that happiness is attainable by gaining knowledge and living a self-sufficient
+
+life surrounded by friends. If we look at the multitude of global religions, we see a similar importance placed on the idea of happiness.
   description: | # this will include new lines to allow paragraphs
       
       **Contributions:**
