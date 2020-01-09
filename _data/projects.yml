@@ -38,7 +38,7 @@
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     
-   The pursuit of happiness has been a part of humanity longer than some may think; some even argue that it’s the reason we continue to do more than just exist. Evidence of this stems back to Ancient Greece, when Philosophers such as Aristotle wrote about it in many of his texts. In fact, the “pursuit of happiness” was a vital part of the United States Declaration of Independence, written in 1776. With Thomas Jefferson stating how he believed that happiness is attainable by gaining knowledge and living a self-sufficient life surrounded by friends. If we look at the multitude of global religions, we see a similar importance placed on the idea of happiness.
+     The pursuit of happiness has been a part of humanity longer than some may think; some even argue that it’s the reason we continue to do more than just exist. Evidence of this stems back to Ancient Greece, when Philosophers such as Aristotle wrote about it in many of his texts. In fact, the “pursuit of happiness” was a vital part of the United States Declaration of Independence, written in 1776. With Thomas Jefferson stating how he believed that happiness is attainable by gaining knowledge and living a self-sufficient life surrounded by friends. If we look at the multitude of global religions, we see a similar importance placed on the idea of happiness.
   
   description: | # this will include new lines to allow paragraphs
       
@@ -49,6 +49,6 @@
       - Used classification algorithms like KNN, Naïve Bayes and logistic regression to validate the results.
       - Performed data cleansing and preprocessing using R statistical packages. 
       - Used correlation matrix to evaluate the correlation among variables and then used N-fold cross evaluation.
-      - Performed back-ward elimination and eliminated variables that were greater than the p value(depending on confidence interval) at each step. 
+      - Performed back-ward elimination and eliminated variables that were greater than the p value(depending on confidence interval) at each step
       - Also used predict() function to predict the variables that affected the most and RMSE (Root mean square error) to check the accuracy of the prediction.
        
