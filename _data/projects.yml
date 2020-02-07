@@ -1,4 +1,21 @@
 # Project template
+
+- layout: top-middle
+  name: Customer Behavioral Analytics for Retail Store | Feb 2020
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+    A customer behavior analysis is a qualitative and quantitative observation of how customers interact with your company. Customers are first segmented into groups based on common grounds and then observed at different stages to analyze how the personas interact with your company.
+    
+  description: | # this will include new lines to allow paragraphs
+      
+      **Contributions:**
+       
+       - Performed Exploratory Data Analysis (EDA) on the Retail Store database to visually explore the characteristics of the data and discover transactional patterns of different customers and countries 
+       - Applied RFM (Recency, Frequency and Monetary value) principles to identify and segment customers using K-Means clustering for target marketing.       
+       - Performed Cohort Analysis to understand each customers’ lifetime value, the retention rate and anticipate the purchases made by a customer from its first purchase.
+
 - layout: top-middle
   name: Credit Card Fraud Detection | December 2019
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
