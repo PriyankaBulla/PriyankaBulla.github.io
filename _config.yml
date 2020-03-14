@@ -61,6 +61,10 @@ more_content: | # this will include new lines to allow paragraphs
 others_content: | # this will include new lines to allow paragraphs
    - Recipient of “Tech Edge Scholarship”, Illinois Institute of Technology, Chicago
    - Edx HarvardX Data Science: R Basics Certification
+   - Interests: Reading Books, Collecting Stamps
+   - Volunteer: work as a Community Desk Assistant at IIT dorms.
+             
+
 
 # Footer
 footer_show_references: true
